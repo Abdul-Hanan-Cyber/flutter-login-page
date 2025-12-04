@@ -1,10 +1,6 @@
-# fpfpfp
+# flutter_login_page
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project contains the flutter(dart) login page it's also contains a home page also which will show after logging in.
 
 A few resources to get you started if this is your first Flutter project:
 
